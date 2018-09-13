@@ -1,0 +1,22 @@
+body {
+    background: #000;
+    color: #fff;
+}
+.MessagesView {
+    background : #000;
+    color: #fff;
+    padding: 3px;
+}
+
+.button {
+    color:#f00 !important;
+    text-decoration: none !important;
+    overflow: hidden;
+}
+
+.button.disabled {
+    color: #ddd !important;
+    font-style: italic;
+    cursor: default;
+    
+}
